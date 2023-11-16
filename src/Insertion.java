@@ -1,6 +1,6 @@
 class Insertion{
     public static void main(String []args){
-        int []arr = {10, 6, 1, 8, 7, 5, 4, 2, 3};
+        int []arr = {10, 10, 1, 8, 7, 5, 7, 2, 3};
         for(int j = 1; j < arr.length; j++){
             int actual = arr[j];
 
